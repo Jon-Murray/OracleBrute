@@ -1,6 +1,8 @@
 # OracleBrute
 Oracle Brute Force Tool
 
+download release.zip
+
 I've always had issues running brute force for Oracle default accounts. This is just a quick script to address some of the things that other tools missed:
 
   specify port
